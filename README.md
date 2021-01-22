@@ -1,2 +1,1 @@
-# responsi-mobile-programing-dua
-responsi mobile programming dua
+# responsi-mobile-programming-dua
